@@ -1,0 +1,11 @@
+An important difference between these types of software is that, in generic products,
+the organization that develops the software controls the software specification. For custom
+products, the specification is usually developed and controlled by the organization
+that is buying the software. The software developers must work to that specification.
+However, the distinction between these system product types is becoming
+increasingly blurred. More and more systems are now being built with a generic
+product as a base, which is then adapted to suit the requirements of a customer.
+Enterprise Resource Planning systems, such as the SAP system, are the best
+examples of this approach. Here, a large and complex system is adapted for a company
+by incorporating information about business rules and processes, reports
+required, and so on.

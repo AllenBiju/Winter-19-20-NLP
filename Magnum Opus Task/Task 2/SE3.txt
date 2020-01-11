@@ -1,0 +1,8 @@
+There are many different types of software systems, from simple embedded systems
+to complex, worldwide information systems. It is pointless to look for universal
+notations, methods, or techniques for software engineering because different types
+of software require different approaches. Developing an organizational information
+system is completely different from developing a controller for a scientific instrument.
+Neither of these systems has much in common with a graphics-intensive computer
+game. All of these applications need software engineering; they do not all need
+the same software engineering techniques.

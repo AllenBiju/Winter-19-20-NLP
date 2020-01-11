@@ -1,0 +1,7 @@
+We can’t run the modern world without software. National infrastructures and utilities
+are controlled by computer-based systems and most electrical products include a
+computer and controlling software. Industrial manufacturing and distribution is
+completely computerized, as is the financial system. Entertainment, including the
+music industry, computer games, and film and television, is software intensive.
+Therefore, software engineering is essential for the functioning of national and international
+societies.

@@ -1,0 +1,14 @@
+Software engineering is intended to support professional software development,
+rather than individual programming. It includes techniques that support program
+specification, design, and evolution, none of which are normally relevant for personal
+software development. To help you to get a broad view of what software engineering
+is about, I have summarized some frequently asked questions in Figure 1.1.
+Many people think that software is simply another word for computer programs.
+However, when we are talking about software engineering, software is not just the
+programs themselves but also all associated documentation and configuration data
+that is required to make these programs operate correctly. A professionally developed
+software system is often more than a single program. The system usually consists
+of a number of separate programs and configuration files that are used to set up
+these programs. It may include system documentation, which describes the structure
+of the system; user documentation, which explains how to use the system, and websites
+for users to download recent product information.

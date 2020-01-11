@@ -1,0 +1,8 @@
+Lots of people write programs. People in business write spreadsheet programs to
+simplify their jobs, scientists and engineers write programs to process their experimental
+data, and hobbyists write programs for their own interest and enjoyment.
+However, the vast majority of software development is a professional activity where
+software is developed for specific business purposes, for inclusion in other devices,
+or as software products such as information systems, CAD systems, etc. Professional
+software, intended for use by someone apart from its developer, is usually developed
+by teams rather than individuals. It is maintained and changed throughout its life.

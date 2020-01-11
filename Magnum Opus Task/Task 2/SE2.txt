@@ -1,0 +1,5 @@
+Software systems are abstract and intangible. They are not constrained by the
+properties of materials, governed by physical laws, or by manufacturing processes.
+This simplifies software engineering, as there are no natural limits to the potential of
+software. However, because of the lack of physical constraints, software systems can
+quickly become extremely complex, difficult to understand, and expensive to change.

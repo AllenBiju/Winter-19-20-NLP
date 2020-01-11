@@ -1,0 +1,6 @@
+This is one of the important differences between professional and amateur software
+development. If you are writing a program for yourself, no one else will use it
+and you don’t have to worry about writing program guides, documenting the program
+design, etc. However, if you are writing software that other people will use and
+other engineers will change then you usually have to provide additional information
+as well as the code of the program.
