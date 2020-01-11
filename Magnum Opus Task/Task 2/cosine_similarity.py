@@ -1,4 +1,11 @@
 
+
+
+# code will take all ".txt" files in the given folder path and calculate a similarity matrix between every combination of files
+# code will calculate the matrix once without stemming and once with stemming
+
+
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import os
@@ -83,4 +90,3 @@ for iteration in range(2):
         print("\n");
 
 
-# print("Difference in similarity with stemming: "+ str(stemming_similarity-no_stemming_similarity))
