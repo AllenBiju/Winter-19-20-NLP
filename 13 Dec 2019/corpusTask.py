@@ -21,7 +21,7 @@ from nltk.corpus import brown
 
 # In[33]:
 
-
+# Categories availabel in brown corpus
 cat = brown.categories()
 brown.words(categories = "adventure")[:100]
 
@@ -34,7 +34,7 @@ from nltk.corpus import inaugural
 
 # In[43]:
 
-
+# American president inaugural speeches
 inaugural.fileids()
 
 
